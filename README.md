@@ -2,7 +2,7 @@ Exposure-Adjusted Motor Insurance Claim Frequency Model Using Poisson GLM
 
 
 
-This project applies a Poisson Generalized Linear Model (GLM) in R to model motor insurance claim frequency using the French Motor Third-Party Liability (MTPL) insurance portfolio.
+This project applies a Poisson Generalized Linear Model (GLM) in R to model motor insurance claim frequency using the French Motor insurance dataset.
 
 
 
