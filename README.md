@@ -24,8 +24,9 @@ To model expected claim frequency and investigate the relationship between claim
 
 Key Findings
 
-Younger drivers exhibited higher expected claim frequencies.
 Higher-density regions showed higher claim incidence.
+Vehicle age shows a negative relationship with claim frequency, suggesting relatively lower claim
+occurrence for older vehicles. 
 Higher vehicle power was associated with higher accident risk
 
 
