@@ -18,22 +18,21 @@ Objective
 
 
 
-To model expected claim frequency and investigate the relationship between claim frequency and driver, vehicle, and geographic characteristics, with applications to motor insurance risk assessment and pricing.
+To model expected claim frequency and investigate the relationship between claim frequency and driver, vehicle and geographic characteristics, with applications to motor insurance risk assessment and pricing.
 
 
 
 Key Findings
 
 Younger drivers exhibited higher expected claim frequencies.
-
 Higher-density regions showed higher claim incidence.
+Higher vehicle power was associated with higher accident risk
 
-Vehicle characteristics were associated with differences in expected claim frequency.
 
 Repository Contents
 
 R Script: Complete analysis and modelling workflow.
 
-Project Report: Detailed methodology, model results, and interpretation.
+Project Report: Detailed methodology, model results and interpretation.
 
 Plots: Visualizations generated during the analysis.
