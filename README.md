@@ -20,6 +20,25 @@ Objective
 
 To model expected claim frequency and investigate the relationship between claim frequency and driver, vehicle and geographic characteristics, with applications to motor insurance risk assessment and pricing.
 
+Key variables include:
+- Claim Number
+- Exposure
+- Driver Age
+- Vehicle Age
+- Vehicle Power
+- Bonus-Malus
+- Population Density
+
+Methodology:
+
+- Exploratory Data Analysis
+- Data preparation and train-test split
+- Poisson GLM with log link
+- log(Exposure) used as an offset
+- Model prediction and evaluation
+- visualizations through plots
+- Analysis of dispersion and key risk factors
+
 
 
 Key Findings
