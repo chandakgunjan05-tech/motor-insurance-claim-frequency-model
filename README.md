@@ -17,8 +17,8 @@ Tool: R
 Objective
 
 
+The aim is to understand which driver, vehicle and geographic factors are linked to claim frequency and use them to estimate expected claims.
 
-To model expected claim frequency and investigate the relationship between claim frequency and driver, vehicle and geographic characteristics, with applications to motor insurance risk assessment and pricing.
 
 Key variables include:
 - Claim Number
@@ -29,7 +29,7 @@ Key variables include:
 - Bonus-Malus
 - Population Density
 
-Methodology:
+Method:
 
 - Exploratory Data Analysis
 - Data preparation and train-test split
@@ -43,7 +43,7 @@ Methodology:
 
 Key Findings
 
-Higher-density regions showed higher claim incidence.
+Policies from higher-density areas generally had higher predicted claim frequencies.
 Vehicle age shows a negative relationship with claim frequency, suggesting relatively lower claim
 occurrence for older vehicles. 
 Higher vehicle power was associated with higher accident risk
